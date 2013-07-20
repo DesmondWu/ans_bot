@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "解題答人", "解題答人.csproj", "{96F5B66D-C8DC-4F3E-B7BB-5F819FFA292C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96F5B66D-C8DC-4F3E-B7BB-5F819FFA292C}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{96F5B66D-C8DC-4F3E-B7BB-5F819FFA292C}.Debug|Default.Build.0 = Debug|Any CPU
+		{96F5B66D-C8DC-4F3E-B7BB-5F819FFA292C}.Release|Default.ActiveCfg = Release|Any CPU
+		{96F5B66D-C8DC-4F3E-B7BB-5F819FFA292C}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
